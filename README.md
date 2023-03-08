@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Akarshan Mishra, a Full stack developer</div>  
   
 
-- 🌱 I’m currently learning I'll beyond the limit  
+- 🌱 I’m currently learning beyond the limit  
   
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://akarshan.netlify.app/)  
