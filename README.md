@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Akarshan Mishra, a Full stack developer</div>  
   
 
-- 🌱 I’m currently learning AWS and Java
+- 🌱 I’m currently learning AWS and NEXTjs
   
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://akarshan.netlify.app/)  
